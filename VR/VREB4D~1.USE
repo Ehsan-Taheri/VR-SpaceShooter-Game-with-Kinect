@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\box.cs">
+    <Files>
+      <File FileName="Assets\box.cs" Line="53" Column="34" />
+      <File FileName="Assets\manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\KinectScripts\KinectManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\OverlayDemo\Scripts\KinectOverlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\DepthColliderDemo\Scripts\DepthImageViewer.cs" Line="1" Column="1" />
+      <File FileName="Assets\buton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
